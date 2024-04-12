@@ -8,6 +8,5 @@ This is the space where I share my projects and I turn creativity into codes.
 - 📫 How to reach me: Email: marciliosantosbruno@gmail.com 
                        Linkedin: https://linkedin.com/in/bruno-santos-328532239  
 
-[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMSantos04)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMSantos04)](https://github.com/anuraghazra/github-readme-stats)
